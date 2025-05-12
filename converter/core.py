@@ -1,0 +1,1 @@
+class DataConverter:\n    def to_tensor(self, file_path):\n        pass
