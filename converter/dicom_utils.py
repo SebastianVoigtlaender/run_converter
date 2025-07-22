@@ -1,0 +1,1 @@
+def normalize_hounsfield(voxel_data):\n    # Normalize CT/MRI voxel data\n    return voxel_data / 255.0
