@@ -1,1 +1,1 @@
-# Medical Data Converter\nPipeline utility for AI.
+# AI Pipeline Run Converter\n\nHigh-throughput utility for converting proprietary microscopy and DICOM medical imaging formats into normalized PyTorch tensors for VIRDX AI models.
